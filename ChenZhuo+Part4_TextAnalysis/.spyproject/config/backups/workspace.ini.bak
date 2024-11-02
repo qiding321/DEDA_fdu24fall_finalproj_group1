@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['text test\\1_wordcloud\\3_Chinese-Word-Cloud.py', 'text test\\2_LDA\\3_LDA_only.py', 'text test\\2_LDA\\datacleaning.py', 'text test\\2_LDA\\0_total_LDA.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
